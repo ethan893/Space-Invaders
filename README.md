@@ -1,5 +1,5 @@
 # Space-Invaders
-My attempt at a Space Invaders game using PyGame
+Space Invaders game using PyGame
 
 W-A-S-D to move:
 
